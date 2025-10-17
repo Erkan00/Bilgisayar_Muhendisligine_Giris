@@ -1,2 +1,2 @@
-# Bilgisayar-M-hendisli-ine-Giri-
+# Bilgisayar_Muhendisligine_Giris
 C++ Basit Hesap Makinesi
