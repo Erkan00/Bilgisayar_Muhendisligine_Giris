@@ -36,9 +36,12 @@ switch(op){
   cout<<"Cevap:"<< result << '\n';
   break;
 
- case  '/':
+ case '/': 
+ if (num2 != 0) {
   result= num1/num2;
   cout<<"Cevap:"<< result << '\n';
+ } else {
+   cout<< "Hata: Bir sayiyi sifira bolemezsiniz!\n"; }
   break;
   default:
   cout<< "Bu geçerli bir sebep değil\n";
